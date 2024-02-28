@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import cv2
 import numpy as np
 # settings for LBP
-radius =10
+radius =50
 n_points = 8 * radius
 
 # 读取图像
